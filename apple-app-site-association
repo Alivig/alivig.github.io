@@ -3,9 +3,7 @@
     "apps": [], 
     "details": [
       {
-        "paths": [
-          "/oauth/confirm-access/init"
-        ], 
+        "paths": [ "/oauth/confirm-access/init" ], 
         "appID": "8NA98GZ448.ru.yandex.mobile.auth.money.debug"
       }
     ]
